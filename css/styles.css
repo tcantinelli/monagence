@@ -1,0 +1,79 @@
+body 
+{
+    background-color:lightgray;
+}
+
+.titre{
+    padding: 50px;
+    border-radius: 10px;
+    background:url(../images/titre.jpg);
+    background-size: cover;
+       
+}
+.text-logo
+{
+    font-family: 'Ranga', sans-serif;
+    color:lightseagreen;
+    text-shadow: 2px 2px #4A4A49;
+    font-size: 110px;
+    padding: 5px 0px;
+    text-align: center;
+}
+
+.legende {
+    
+    font-size: 20px;
+    text-align: center; 
+}
+
+.name
+{
+    font-family: 'Ranga', sans-serif;
+    color:black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.admin
+{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.nav
+{
+   margin-bottom: 40px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover
+{
+    background-color:lightseagreen;
+}
+.nav>li>a:focus, .nav>li>a:hover 
+{
+    background-color: #eee;
+}
+.nav>li>a
+{
+    color: lightseagreen;
+    font-size: 18px;
+}
+
+#compte
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#mapid{
+height: 380px;
+      }
+
+#mapbig{
+height: 380px;
+      }
+
+.help-inline {
+    color:red;
+}
